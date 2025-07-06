@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Jahanzeb-Mughal/TicTacToe/static/css/main.3b72e872.css",
-    "main.js": "/Jahanzeb-Mughal/TicTacToe/static/js/main.367ecac3.js",
-    "static/js/453.44377a28.chunk.js": "/Jahanzeb-Mughal/TicTacToe/static/js/453.44377a28.chunk.js",
-    "static/media/logo.svg": "/Jahanzeb-Mughal/TicTacToe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Jahanzeb-Mughal/TicTacToe/index.html",
-    "main.3b72e872.css.map": "/Jahanzeb-Mughal/TicTacToe/static/css/main.3b72e872.css.map",
-    "main.367ecac3.js.map": "/Jahanzeb-Mughal/TicTacToe/static/js/main.367ecac3.js.map",
-    "453.44377a28.chunk.js.map": "/Jahanzeb-Mughal/TicTacToe/static/js/453.44377a28.chunk.js.map"
+    "main.css": "/static/css/main.3b72e872.css",
+    "main.js": "/static/js/main.c172d8c8.js",
+    "static/js/453.44377a28.chunk.js": "/static/js/453.44377a28.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.3b72e872.css.map": "/static/css/main.3b72e872.css.map",
+    "main.c172d8c8.js.map": "/static/js/main.c172d8c8.js.map",
+    "453.44377a28.chunk.js.map": "/static/js/453.44377a28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b72e872.css",
-    "static/js/main.367ecac3.js"
+    "static/js/main.c172d8c8.js"
   ]
 }
